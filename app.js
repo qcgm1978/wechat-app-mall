@@ -166,10 +166,10 @@ App({
   },
   globalData:{
     userInfo:null,
-    subDomain: "tz", // 如果你的域名是： https://api.it120.cc/abcd 那么这里只要填写 abcd
+    subDomain: "youth", // 如果你的域名是： https://api.it120.cc/abcd 那么这里只要填写 abcd
     version: "4.1.0",
     note:'增加小程序购物单支持',
-    appid: "wxa46b09d413fbcaff", // 您的小程序的appid
+    appid: "wxcb754b6f12773e5c", // 您的小程序的appid
     shareProfile: '百款精品商品，总有一款适合您', // 首页转发的时候话术
     isConnected: true, // 网络是否连接
     _path: 'https://api.it120.cc/tz' // 原项目路由配置在页面中，改为配置项
